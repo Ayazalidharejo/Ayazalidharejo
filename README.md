@@ -10,7 +10,7 @@ and constantly learning new things in the world of development.
 
 My goal is to build innovative and impactful web applications,
 while continuously improving my skills in JavaScript, React
-
+img scr="" alt=""
 ![boot](https://github.com/user-attachments/assets/fe6e75b6-78c5-4a83-aa36-e281dc41fc30)
 ![css](https://github.com/user-attachments/assets/692e7d06-0299-4c26-b0cc-44abf94ff9b0)
 ![js](https://github.com/user-attachments/assets/cfe259f8-10d5-4dd6-8e5b-0576573a0971)
