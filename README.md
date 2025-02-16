@@ -28,35 +28,37 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </a>
 
-   <p align="left">
+   <!-- Font Awesome CDN Link -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+<p align="left">
     <!-- Java Icon -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+        <i class="fa-brands fa-java" style="font-size: 40px; color: #007396;"></i>
     </a>
 
     <!-- JavaScript Icon -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+        <i class="fa-brands fa-js" style="font-size: 40px; color: #F7DF1E;"></i>
     </a>
 
     <!-- React Icon -->
     <a href="https://react.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+        <i class="fa-brands fa-react" style="font-size: 40px; color: #61DAFB;"></i>
     </a>
 
-    <!-- Next.js Icon -->
+    <!-- Next.js Icon (Using Custom SVG) -->
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
     </a>
 
     <!-- Material-UI Icon -->
     <a href="https://mui.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Material_UI_Logo.svg" alt="Material-UI" width="40" height="40"/>
+        <img src="https://mui.com/static/logo.png" alt="Material-UI" width="40" height="40"/>
     </a>
 
     <!-- Bootstrap Icon -->
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+        <i class="fa-brands fa-bootstrap" style="font-size: 40px; color: #7952B3;"></i>
     </a>
 </p>
-
