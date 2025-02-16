@@ -12,7 +12,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=www.linkedin.com/in/ayazali-dharejo" target="blank"><img scr="www.linkedin.com/in/ayazali-dharejo" align="center" alt="Ayaz Ali dharejo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayazali-dharejo" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" 
+         alt="Ayaz Ali Dharejo" height="30" width="40" />
+</a>
+
 
 
 </p>
