@@ -45,6 +45,22 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 </a>
+<!-- TypeScript -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+</a>
+
+<!-- Tailwind CSS (متبادل) -->
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+</a>
+
+<!-- Spline -->
+<a href="https://spline.design/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/spline.svg" alt="Spline" width="40" height="40"/>
+</a>
+
+<!-- shadcn/ui (متبادل) -->
 <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/124599?v=4" alt="shadcn/ui" width="40" height="40"/>
 </a>
