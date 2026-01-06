@@ -41,7 +41,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-<a href="https://spline.design/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/spline.svg" alt="Spline" width="40" height="40"/></a>
-<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/icon.png" alt="shadcn/ui" width="40" height="40"/></a>
+    
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40"/>
+</a>
 </p>
