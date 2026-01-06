@@ -45,7 +45,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40"/>
+<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/124599?v=4" alt="shadcn/ui" width="40" height="40"/>
 </a>
 </p>
